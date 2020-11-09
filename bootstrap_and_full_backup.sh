@@ -2,7 +2,7 @@ LAST=$(bitcanna-cli getblockcount)
 bitcanna-cli stop
 echo .
 echo Making new bootstrap
-rm /media/backup/bootstap*
+rm /media/backup/bootstrap*
 cd  /home/bitcanna/.bitcanna/blocks/
 cat blk000*.dat > /media/backup/bootstrap.dat
 touch /media/backup/bootstrap-block-$LAST
