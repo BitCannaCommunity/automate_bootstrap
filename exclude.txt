@@ -1,0 +1,3 @@
+wallet.*
+bitcanna.conf
+masternode.conf
