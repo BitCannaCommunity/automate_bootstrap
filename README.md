@@ -1,4 +1,4 @@
-# BitCanna backups
+# BitCanna backups (linux and MacOs)
 Simple bash scripts to automate bootstrap's creation and full_chain_db's backups. 
 
 Steps to set-up:
