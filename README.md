@@ -5,6 +5,7 @@ Steps to set-up:
 * Install 7zip: `sudo apt install 7zip`
 
 * Schedule with Cron once a week: `crontab -e` and add a line like this:
+
 ```0 5 * * 0 /home/bitcanna/bckup_bitcanna/full_backup.sh```
 
 * Change the folder path that fit with your system
